@@ -1,6 +1,6 @@
 
 
-# GoodByeJiokcheol -지하철 승객 몰림 방지 시스템
+# GoodByeJiokcheol - 지하철 승객 몰림 방지 시스템
 
 # 프로젝트 개요
 
