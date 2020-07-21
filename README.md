@@ -3,6 +3,7 @@
 # GoodByeJiokcheol - 지하철 승객 몰림 방지 시스템
 
 # 프로젝트 개요
+<br>
 
 ![logo](https://user-images.githubusercontent.com/63458653/88040826-70fd6e00-cb84-11ea-81a5-f29261b813df.PNG)
 
@@ -44,6 +45,7 @@ ESP-8266
 <br>
 
 # 구현
+<br>
 
 ![1](https://user-images.githubusercontent.com/63458653/88051230-3f3fd380-cb93-11ea-8166-151845ea4e68.PNG)
 ![2](https://user-images.githubusercontent.com/63458653/88051238-41099700-cb93-11ea-916c-8f7f589f81f3.PNG)
