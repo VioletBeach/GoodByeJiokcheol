@@ -32,8 +32,7 @@ YZC-131
 - 무게 센서로 승객들의 중량을 측정한다.
 
  두가지 센서로 조건 연산과 논리 연산으로 지하철의 혼잡도를 계산한다.
- <br>
-
+ <br><br>
 ## 와이파이 센서
 ![image](https://user-images.githubusercontent.com/63458653/88048361-254fc200-cb8e-11ea-90c6-945c957affc7.png)
 
@@ -41,3 +40,12 @@ ESP-8266
 - 와이파이 네트워크와 연결
 - Wizfi250 라이브러리를 이용해 TCP를 통해 웹서버와 연결 후 HTTP명령으로 HTML 웹페이지 제작
 - 측정 센서에서 얻은 혼잡도 값을 웹페이지에서 시각적으로 보여줌 
+<br>
+<br>
+# 구현
+
+![1](https://user-images.githubusercontent.com/63458653/88050425-cb50fb80-cb91-11ea-838a-743a8cb2e66d.PNG)
+![2](https://user-images.githubusercontent.com/63458653/88050431-cd1abf00-cb91-11ea-9340-31cdbc77128d.PNG)
+![3](https://user-images.githubusercontent.com/63458653/88050435-cee48280-cb91-11ea-8c63-95e5e37b9a86.PNG)
+![4](https://user-images.githubusercontent.com/63458653/88050436-d0ae4600-cb91-11ea-897d-6e4f807a3c19.PNG)
+
