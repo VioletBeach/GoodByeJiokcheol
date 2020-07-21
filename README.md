@@ -42,10 +42,12 @@ ESP-8266
 - 측정 센서에서 얻은 혼잡도 값을 웹페이지에서 시각적으로 보여줌 
 <br>
 <br>
+
 # 구현
 
-![1](https://user-images.githubusercontent.com/63458653/88050425-cb50fb80-cb91-11ea-838a-743a8cb2e66d.PNG)
-![2](https://user-images.githubusercontent.com/63458653/88050431-cd1abf00-cb91-11ea-9340-31cdbc77128d.PNG)
-![3](https://user-images.githubusercontent.com/63458653/88050435-cee48280-cb91-11ea-8c63-95e5e37b9a86.PNG)
-![4](https://user-images.githubusercontent.com/63458653/88050436-d0ae4600-cb91-11ea-897d-6e4f807a3c19.PNG)
+![1](https://user-images.githubusercontent.com/63458653/88051230-3f3fd380-cb93-11ea-8166-151845ea4e68.PNG)
+![2](https://user-images.githubusercontent.com/63458653/88051238-41099700-cb93-11ea-916c-8f7f589f81f3.PNG)
+![3](https://user-images.githubusercontent.com/63458653/88051246-423ac400-cb93-11ea-9814-27cd189280bb.PNG)
+![4](https://user-images.githubusercontent.com/63458653/88051250-436bf100-cb93-11ea-90a8-f57cf8d9a533.PNG)
+
 
