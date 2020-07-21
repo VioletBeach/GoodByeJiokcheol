@@ -1,6 +1,6 @@
 
 
-# GoodByeJiokcheol - 지하철 승객 몰림 방지 시스템
+# GoodByeJiokcheol <sub>지하철 승객 몰림 방지 시스템</sub
 
 # 프로젝트 개요
 
@@ -18,6 +18,7 @@
 - 개발 언어: C++
 - 관련 기술: Wifi, Webserver, HTML, TCP/IP, HTTP
 <br>
+<sup>본 프로젝트는 스마트 도시를 만들기 위한 아이디어로 시연을 목적에 두고 제작되었습니다.</sup>
 
 
 # System
