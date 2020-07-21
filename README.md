@@ -50,4 +50,8 @@ ESP-8266
 ![3](https://user-images.githubusercontent.com/63458653/88051246-423ac400-cb93-11ea-9814-27cd189280bb.PNG)
 ![4](https://user-images.githubusercontent.com/63458653/88051250-436bf100-cb93-11ea-90a8-f57cf8d9a533.PNG)
 
+- 지하철의 각 호차, 각 칸 별로 승객 밀도와 중량을 측정해서 혼잡도를 계산
+- 실시간으로 각 호차, 칸 별 혼잡도를 웹페이지와 LED 전광판을 통해 보여준다. 
+
+<br><br>
 
